@@ -1,0 +1,174 @@
+﻿<head>
+    <!--NEW-->
+
+    <meta charset="utf-8" />
+
+    <link href="https://kendo.cdn.telerik.com/2021.2.511/styles/kendo.common.min.css" rel="stylesheet" />
+    <link href="https://kendo.cdn.telerik.com/2021.2.511/styles/kendo.default.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2021.2.511/js/kendo.all.min.js"></script>
+
+    <!----->
+
+    <!--|KENDO UI| >> -->
+
+    <!-- Reference to the file that is common for all Kendo UI LESS themes. This file should be referenced before the selected LESS theme.-->
+    <link href="styles/kendo.common.min.css" rel="stylesheet" />
+
+    <!-- Reference to the selected LESS-based theme  -->
+    <link href="styles/kendo.default.min.css" rel="stylesheet" />
+
+    <!-- (Optional) Reference to the RTL(Right-To-Left) CSS file that changes the direction of all Kendo UI widgets. Include this file only if your project will be with Right-To-Left webpage direction. -->
+    <link href="styles/kendo.rtl.min.css" rel="stylesheet" type="text/css" />
+
+    <!-- (Optional) Reference to the Kendo UI Hybrid CSS file. Include only if you will use the LESS-based theme on a mobile device. -->
+    <link href="styles/kendo.default.mobile.min.css" rel="stylesheet" type="text/css" />
+
+    <!-- Reference to the jQuery library. It is important tha the jQuery file is loaded before the JavaScript file of Kendo UI -->
+    <script src="js/jquery.min.js"></script>
+
+    <!-- Reference to the Kendo UI JavaScript file -->
+    <script src="js/kendo.all.min.js"></script>
+
+    <!-- << |KENDO UI|-->
+
+    <title></title>
+</head>
+
+
+<body>
+
+    <h1>KENDO GRID</h1>
+
+
+    <!--REMOVE !!!!!!<<<<<<<<<<<<<<<<<<<<<< -->
+    <div>
+    <button class="k-button">@Html.ActionLink("Create New Album", "Create")</button>
+</div>
+    <!--REMOVE !!!!!!<<<<<<<<<<<<<<<<<<<<<< -->
+
+
+
+
+    <div id="example">
+        <div id="grid"></div>
+        <script>
+            $(document).ready(function () {
+                $("#grid").kendoGrid({
+                    dataSource: {                        
+                        transport: {                           
+                            //Read
+                            read: {
+                                url: "@Url.Action("Read", "StoreManager")", //Read(), StoreManager Controller
+                                 contentType: "application/json",
+                                 type: "POST"
+                             },
+                        },
+                        batch: false,
+                        schema: {
+                            model: {
+                                id: "AlbumId",
+                                fields: {
+                                    AlbumId: {type: "number"},
+                                    Artist: { type: "string" },
+                                    Genre: { type: "string" },
+                                    Title: { type: "string" },
+                                    Price: { type: "number" }
+                                }
+                            }
+                        },
+                    },                    
+                    filterable: true,
+                    sortable: true,
+                    editable: true,
+                    selectable: "row",
+                    pageable: { pageSizes: [20, 40, 60, "All"], refresh: true },
+                    toolbar: [
+                        { template: '<a class="k-button" onclick="add()">Add</a>' },
+                        { template: '<a class="k-button" onclick="deleteItem()">Delete</a>' },
+                        { template: '<a class="k-button" onclick="testFunction()">Submit </a>' },
+                    ],
+                    columns: [
+                    "AlbumId",
+                    "Artist",
+                    "Genre",
+                    "Title",
+                    "Price"
+                    ]
+                });
+            });
+
+
+            //Delete
+            function deleteItem()
+            {
+                //identify grid, selected row, selected data item, selected item id
+                var grid = $("#grid").data().kendoGrid;
+                var selectedRow = grid.select();
+                var selectedDataItem = grid.dataItem(selectedRow);
+                console.log("Deleting Album with ID: " + selectedDataItem.AlbumId);
+                //remove selected row from grid
+                grid.dataSource.remove(selectedDataItem);
+                console.log("Album removed from Grid")
+                //call 'DeleteAlbum()' from controller, pass selected album id as param - remove album from db
+                var url = "../StoreManager/DeleteAlbum";     
+                $.get(url, {id: selectedDataItem.AlbumId}, function (data){
+                    $("#grid").html(data);
+                })
+                //confirm
+                console.log("ALBUM DELETED");
+            }
+            
+
+            //Add
+            function add() {
+                var grid = $("#grid").data("kendoGrid");                
+                grid.addRow();               
+            }
+
+
+            //Submit             
+            // >>>
+            //iterate through grid and get values of each item - send values to relevant controller action method > will create new object for each item and set the db.albums to this new array
+            //(submit) [save changes ]
+            //edit: no array - send individual values and create new album on controller method - then pass to db
+            function testFunction()
+            {
+                //identify grid
+                var grid = $("#grid").data().kendoGrid;
+                //identify grid datasource                
+                var data = grid.dataSource.data();
+                //get grid length
+                var totalNumber = data.length;
+                //check
+                console.log("GRID LENGTH / TOTAL ALBUMS : " + totalNumber);
+                //define new empty array - no
+                //var AlbumList = [];                
+                //iterate through grid, get values
+                for (var i = 0; i < totalNumber; i++) {
+                    var currentDataItem = data[i];
+                    //values
+                    var Id = currentDataItem.AlbumId;
+                    var Artist = currentDataItem.Artist;
+                    var Genre = currentDataItem.Genre;
+                    var Title = currentDataItem.Title;
+                    var Price = currentDataItem.Price;                    
+                    console.log(i, Id, Artist, Genre, Title, Price);
+                    //add item to array
+                    //AlbumList.push(currentDataItem);
+                }
+                
+                //call Submit(), pass params
+                var url = "../StoreManager/Submit";
+                $.get(url, {total:totalNumber , id:Id, Artist:Artist, Genre:Genre, Title:Title, Price:Price }, function (data) {
+                    $("#grid").html(data);
+                })
+                //confirm
+                console.log("METHOD CALLED");
+            }
+
+            
+        </script>
+    </div>
+
+</body>

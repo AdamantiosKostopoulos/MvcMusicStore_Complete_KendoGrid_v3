@@ -1,0 +1,101 @@
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.Providers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.Providers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete - KENDO UI TEST\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.Providers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.Providers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - Copy\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.Providers.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Αδαμαντιος\source\repos\MVC\MvcMusicStore-gitrepo\MvcMusicStore_Complete_KendoGrid_v2 - NEW - OK (NewModel instead of MusicStoreEntities) - Copy\MvcMusicStore\obj\Debug\MvcMusicStore.pdb

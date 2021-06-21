@@ -1,0 +1,50 @@
+﻿@model IEnumerable<MvcMusicStore.Models.Album>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+    <div class=" row">
+        <div class="column">
+            <h2>Index Kendo - partial view</h2>
+        </div>
+    </div>
+</div>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Getting Started with Kendo UI for jQuery</title>
+
+    <link href="https://kendo.cdn.telerik.com/2021.2.511/styles/kendo.common.min.css" rel="stylesheet" />
+    <link href="https://kendo.cdn.telerik.com/2021.2.511/styles/kendo.default.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2021.2.511/js/kendo.all.min.js"></script>
+</head>
+<body>
+
+    <p>Hello <a href="https://docs.telerik.com/kendo-ui/intro/first-steps">Kendo UI for jQuery</a>!
+        This is version <strong id="kendoVersion"></strong>.</p>
+
+    <script>
+
+        $(function() {
+
+            $("#kendoVersion").text(kendo.version);
+
+        });
+
+    </script>
+
+     <!-- HTML element from which the DatePicker would be initialized -->
+    <input id="datepicker" />
+    <script>
+        $(function () {
+            // Initialize the Kendo UI DatePicker by calling the kendoDatePicker jQuery plugin
+            $("#datepicker").kendoDatePicker();
+        });
+    </script>
+
+</body>
+</html>
